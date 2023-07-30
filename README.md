@@ -1,6 +1,6 @@
 # Digital-Marketing-Task-2
 
-This my template link for Email Marketing Campaign:
+This is my template link for Email Marketing Campaign:
 https://my.brevo.com/template/CtIHK6vbqt21RqHWziD_VsSUTG2yarr14DynXQFbOPmtQF1e0mKvy_lAew--
 
 This is my Subsciption Form : 
